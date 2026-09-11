@@ -1,155 +1,77 @@
-# 👋 Olá! Eu sou Carlos Pivatti
+# Olá, eu sou o Carlos Pivatti 👋
 
-## 🚀 Sobre mim
+### Estudante de Engenharia da Computação | Desenvolvedor Backend Python & Go em formação
 
-Sou estudante de **Engenharia da Computação (UNIVESP)** e estou em transição de carreira para a área de tecnologia.
-
-Depois de mais de duas décadas atuando na área comercial, desenvolvi competências em negociação, gestão de projetos, relacionamento com clientes, resolução de problemas e visão de negócios. Hoje direciono toda essa experiência para o desenvolvimento de soluções tecnológicas.
-
-Atualmente busco minha primeira oportunidade de **estágio em desenvolvimento de software**, onde possa aprender, contribuir e crescer profissionalmente.
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlospivatti)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosPivatti)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.pivatti@gmail.com)
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo Professional
 
-Construir uma carreira sólida em desenvolvimento de software, participando de projetos que gerem impacto real através da tecnologia.
-
-Tenho grande interesse em:
-
-* 💻 Desenvolvimento Back-end
-* 🐍 Python
-* ☁️ Cloud Computing
-* 🤖 Inteligência Artificial
-* 🌐 APIs REST
-* 🗄️ Banco de Dados
-* ⚙️ Automação de Processos
+Busco uma oportunidade de estágio ou posição júnior em **Desenvolvimento Backend**, **Automação**, **Suporte Técnico com Programação** ou **Análise de Sistemas**.
 
 ---
 
-## 📚 Formação
+## 👤 Sobre Mim
 
-🎓 Engenharia da Computação — UNIVESP *(em andamento)*
+Sou estudante de **Engenharia da Computação na UNIVESP** e estou direcionando minha carreira para o desenvolvimento de software. Depois de mais de duas décadas de experiência na área comercial e na gestão de projetos, trago uma combinação sólida de **conhecimento técnico, visão de negócio e inteligência no relacionamento com clientes**.
 
-### Certificações e Cursos
+Tenho foco em transformar problemas reais em soluções simples, eficientes, bem documentadas e úteis. Atualmente estudo e desenvolvo projetos direcionados para Python, Go, APIs REST, SQL, automação de processos e cloud computing.
 
-* Oracle Cloud Infrastructure AI Foundations *(em andamento)*
-* Python
-* Six Sigma Green Belt
-* CS50 (estudos)
-* Banco de Dados
-* Redes de Computadores
-* Estruturas de Dados
-* Programação Orientada a Objetos
-
----
-
-## 💼 Experiência Profissional
-
-Embora esteja iniciando minha carreira em tecnologia, trago uma sólida experiência na área comercial e gestão de projetos.
-
-Essa trajetória me proporcionou habilidades como:
-
-* Comunicação
-* Trabalho em equipe
-* Liderança
-* Organização
-* Gestão de prioridades
-* Relacionamento com clientes
-* Resolução de problemas
-* Visão estratégica
-
-Acredito que essas competências complementam minha formação técnica e agregam valor aos projetos em que participo.
+### 🌟 Diferenciais da minha trajetória:
+- **Comunicação assertiva** com públicos técnicos e não técnicos
+- **Levantamento de necessidades** e mapeamento do problema raiz
+- **Resolução colaborativa** de problemas em ambientes complexos
+- **Organização e gestão de prioridades** focada em entregas
+- **Visão de negócio** e orientação para resultados práticos
+- **Trabalho em equipe** e forte histórico de bom relacionamento
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🛠️ Tecnologias e Conhecimentos
 
-### Linguagens
+### 🟢 Em prática
+`Python` • `Go (Golang)` • `SQL` • `SQLite` • `Git & GitHub` • `APIs REST & JSON` • `POO` • `Estruturas de Dados & Algoritmos`
 
-* Python
-* SQL
-* HTML
-* CSS
-* JavaScript (fundamentos)
+### 🟡 Em desenvolvimento
+`FastAPI` • `PostgreSQL` • `Testes Automatizados (pytest)` • `Docker` • `GitHub Actions (CI/CD)` • `OCI (Oracle Cloud Infrastructure)` • `IA Aplicada a Software`
 
-### Banco de Dados
-
-* SQLite
-* SQL
-
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* PyCharm
-
-### Conceitos
-
-* Programação Orientada a Objetos
-* Estruturas de Dados
-* Algoritmos
-* APIs REST
-* JSON
-* Redes de Computadores
-* Cloud Computing
+### 🔵 Conhecimentos complementares
+`HTML5 & CSS3` • `JavaScript (Fundamentos)` • `Redes de Computadores` • `Análise de Sistemas` • `Documentação Técnica`
 
 ---
 
-## 📂 Projetos
+## 📂 Projetos no GitHub
 
-Aqui você encontrará projetos desenvolvidos durante meus estudos, incluindo:
+Neste perfil você encontrará projetos acadêmicos e práticos focados em:
+* 🚀 **APIs Backend** com Python e Go
+* 🤖 **Automações** de tarefas repetitivas e web scraping
+* 💾 **Aplicações** integradas com Banco de Dados
+* 📐 **Estruturas de dados** e algoritmos na prática
+* 💻 **Projetos Acadêmicos** do curso de Engenharia da Computação
 
-* Exercícios de Python
-* Algoritmos
-* Estruturas de Dados
-* Automações
-* APIs
-* Estudos de Banco de Dados
-* Projetos acadêmicos
-* Desafios de programação
-
-Cada projeto representa uma etapa da minha evolução como desenvolvedor.
+> Em cada repositório, busco documentar o problema resolvido, a arquitetura adotada, as tecnologias utilizadas e o passo a passo para execução.
 
 ---
 
-## 📈 Atualmente estudando
+## 🎓 Formação & Certificações
 
-* Engenharia da Computação
-* Python
-* Inteligência Artificial
-* Oracle Cloud Infrastructure
-* Desenvolvimento Back-end
-* Git e GitHub
-* Estruturas de Dados
-* Banco de Dados
-* APIs REST
+- **Bacharelado em Engenharia da Computação** — UNIVESP *(em andamento)*
+- **Oracle Cloud Infrastructure AI Foundations** *(em andamento)*
+- **CS50: Introduction to Computer Science** — Harvard/Estudos autônomos *(em andamento)*
+- **Formação Go Developer** — Digital Innovation One (DIO) *(em andamento)*
+- **Six Sigma Green Belt**
 
 ---
 
-## 🎯 Próximos objetivos
+## 📬 Vamos conversar?
 
-* Conquistar minha primeira oportunidade de estágio em tecnologia.
-* Desenvolver projetos completos para portfólio.
-* Aprimorar conhecimentos em Python.
-* Estudar frameworks para desenvolvimento web.
-* Obter certificações em Cloud.
-* Contribuir para projetos Open Source.
+- 📧 **E-mail:** [carlos.pivatti@gmail.com](mailto:carlos.pivatti@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/carlospivatti](https://www.linkedin.com/in/carlospivatti)
+- 🐙 **GitHub:** [github.com/CarlosPivatti](https://github.com/CarlosPivatti)
 
 ---
 
-## 📫 Contato
-
-📧 *carlos.pivatti@gmail.com*
-
-💼 LinkedIn
-
-[www.linkedin.com/in/carlospivatti](http://www.linkedin.com/in/carlospivatti)
-
-🐙 GitHub
-
-github.com/CarlosPivatti
-
----
-
-> *"Nunca é tarde para aprender. Cada linha de código escrita hoje é um passo em direção ao profissional que desejo me tornar amanhã."*
+> *"Profissionais em transição não começam do zero: levam consigo experiência, visão de negócio e capacidade de resolver problemas."*
