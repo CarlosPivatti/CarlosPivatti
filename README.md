@@ -1,4 +1,4 @@
-# Olá, eu sou o Carlos Pivatti 👋
+# Carlos Pivatti 👋
 
 ### Estudante de Engenharia da Computação | Desenvolvedor Backend Python & Go em formação
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Objetivo Professional
+## 🎯 Objetivo Profissional
 
 Busco uma oportunidade de estágio ou posição júnior em **Desenvolvimento Backend**, **Automação**, **Suporte Técnico com Programação** ou **Análise de Sistemas**.
 
@@ -58,11 +58,15 @@ Neste perfil você encontrará projetos acadêmicos e práticos focados em:
 
 ## 🎓 Formação & Certificações
 
-- **Bacharelado em Engenharia da Computação** — UNIVESP *(em andamento)*
+- **Engenharia da Computação** — UNIVESP *(em andamento)*
+- **Go Developer** — DIO *(mai/2026)*
+- **Python para Análise e Automação de Dados** — DIO *(mai/2026)*
+- **Python Advanced** — Huawei *(out/2025)*
+- **AgentBlazer 2026 Champion** — Salesforce *(jan/2026)*
+- **Formação Green Belt Six Sigma** — RL&Associados *(jun/2026)*
+- **Liderança em tempos de transformação digital** — Univesp Oficial *(fev/2026)*
 - **Oracle Cloud Infrastructure AI Foundations** *(em andamento)*
 - **CS50: Introduction to Computer Science** — Harvard/Estudos autônomos *(em andamento)*
-- **Formação Go Developer** — Digital Innovation One (DIO) *(em andamento)*
-- **Six Sigma Green Belt**
 
 ---
 
